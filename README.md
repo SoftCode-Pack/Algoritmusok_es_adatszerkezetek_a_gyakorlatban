@@ -1,0 +1,1 @@
+# Algoritmusok_es_adatszerkezetek_a_gyakorlatban
